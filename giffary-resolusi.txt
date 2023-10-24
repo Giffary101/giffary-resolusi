@@ -2,3 +2,5 @@ WPU Resolusi
 -Konsisten untuk belajar programming
 -Membuat projek dengan konsisten
 -Membuat forum diskusi
+-Membuat projek front-end besar
+-Collabs dengan orang orang ternama
